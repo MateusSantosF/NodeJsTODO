@@ -16,9 +16,6 @@
 
 ![image](https://github.com/MateusSantosF/NodeJsTODO/assets/62969620/f380d37d-9b85-458c-8891-3f523f7dc4f1)
 
-
-
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
